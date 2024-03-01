@@ -7,7 +7,7 @@ Extractor is an HTTP service used to convert PDF, Markdown, HTML, Docx, Xlsx, CS
 Start the application server using Docker
 
 ```bash
-docker run -it --name extractor \
+docker run -d --restart=always --name extractor \
      -p 8080:80 \
      mylxsw/extractor:1.0.0
 ```
