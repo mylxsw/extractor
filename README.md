@@ -2,6 +2,10 @@
 
 Extractor is an HTTP service used to convert PDF, Markdown, HTML, Docx, Xlsx, CSV and other files into plain text output. It is used in RAG implementation to read external documents for vectorization.
 
+Demo: https://extractor.gulu.ai
+
+> The access speed may be slow. It is for trial use only and should not be used in production.
+
 ## Installation
 
 Start the application server using Docker
