@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+boto3==1.34.53
+botocore==1.34.53
+chardet==4.0.0
+docx2txt==0.8
+Flask==2.2.5
+Flask_RESTful==0.3.10
+openpyxl==3.0.10
+pydantic==1.10.12
+pypdfium2==4.27.0
+python_magic==0.4.27
+Requests==2.31.0
+gunicorn~=21.2.0
+celery==5.3.6
+gevent~=24.2.1
